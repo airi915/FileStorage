@@ -1,1 +1,17 @@
+{
+    "firstname": "Andy",
+    "gender": true,
+    "height": 180,
+    "email": "cahuang7@gmail.com",
+    "city": {
+        "通訊地址": "台北",
+        "戶籍地址": "台中"
+    },
 
+    "phone": {
+        "市話": "07-7353500",
+        "行動電話": "0988-331917"
+    },
+
+    "cars": [ "BMW", "Porsche", "Maserati"]
+}
